@@ -1,0 +1,600 @@
+{
+    "source": "analyzed_story_v2.txt",
+    "characters": {
+        "pei_qian": {
+            "name": "Pei Qian",
+            "segments": [
+                6,
+                8,
+                14,
+                17,
+                31,
+                33,
+                37,
+                53,
+                56,
+                58,
+                62,
+                68,
+                70,
+                78,
+                82,
+                86
+            ]
+        }
+    },
+    "segments": [
+        {
+            "segment_index": 0,
+            "paragraph": 1,
+            "text": "2009?!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 1,
+            "paragraph": 2,
+            "text": "He had returned back in time by 10 years?",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 2,
+            "paragraph": 3,
+            "text": "It took Pei Qian a moment of uneasiness before he accepted the truth with relative calmness.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 3,
+            "paragraph": 4,
+            "text": "Ever since he graduated in 2013, he had been in two industries and changed jobs through multiple companies, meeting with extremely horrendous bosses while enduring the politics of corporate life.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 4,
+            "paragraph": 5,
+            "text": "In any case, he was nothing but a slave of society.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 5,
+            "paragraph": 6,
+            "text": "He was naturally ecstatic for something as wonderful as transmigrating to happen to him. Restarting life from 10 years ago, this was something that everyone could only dream of!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 6,
+            "paragraph": 7,
+            "text": "Completely awake now, Pei Qian flipped and sat on his bed.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 4,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with an action"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 4,
+            "focus_streak": 1
+        },
+        {
+            "segment_index": 7,
+            "paragraph": 8,
+            "text": "What should he do next?",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 8,
+            "paragraph": 9,
+            "text": "Right then, a transparent screen appeared before Pei Qian as lines of words began to fill up.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 4,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with an action"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 4,
+            "focus_streak": 2
+        },
+        {
+            "segment_index": 14,
+            "paragraph": 15,
+            "text": "Pei Qian was startled and overjoyed.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 2,
+            "focus_streak": 3
+        },
+        {
+            "segment_index": 15,
+            "paragraph": 16,
+            "text": "Indeed, there would always be a system after transmigration! His cheat had arrived!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 16,
+            "paragraph": 17,
+            "text": "Calm down, calm down! These were the usual patterns of how things went, it was nothing to fuss about!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 17,
+            "paragraph": 18,
+            "text": "Pei Qian composed himself before long and looked at the message on the screen.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 7,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with an action",
+                        "Character is associated with perception"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 7,
+            "focus_streak": 4
+        },
+        {
+            "segment_index": 22,
+            "paragraph": 23,
+            "text": "This was a menu.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 23,
+            "paragraph": 24,
+            "text": "At the bottom of the menu was a dialog box used to display dynamic information – that must be the instruction manual.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 31,
+            "paragraph": 32,
+            "text": "Instantly, Pei Qian understood the functions of the system.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 6,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with internal thought"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 6,
+            "focus_streak": 5
+        },
+        {
+            "segment_index": 32,
+            "paragraph": 33,
+            "text": "Even though both the System Funds and Personal Wealth aspects referred to money, they were completely different concepts.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 33,
+            "paragraph": 34,
+            "text": "The 443 of the Personal Wealth referred to Pei Qian’s total amount of money which amounted to 443 yuan – this was money he could spend freely.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 2,
+            "focus_streak": 6
+        },
+        {
+            "segment_index": 34,
+            "paragraph": 35,
+            "text": "As for the 50,000 yuan, those were the System Funds. According to the system’s rules, that amount of money could only be for business activities such as incorporating a company.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 35,
+            "paragraph": 36,
+            "text": "After a period of time, be it whether he profits or loses, it will be converted to his Personal Wealth based on the set ratio and he could spend it as he wishes by then!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 37,
+            "paragraph": 38,
+            "text": "Pei Qian continued tapping on the screen.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 4,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with an action"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 4,
+            "focus_streak": 7
+        },
+        {
+            "segment_index": 53,
+            "paragraph": 54,
+            "text": "Pei Qian checked through the 200 violations and his plans were eliminated one after another.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 2,
+            "focus_streak": 8
+        },
+        {
+            "segment_index": 54,
+            "paragraph": 55,
+            "text": "Speculating in property and purchasing of cryptocurrency were all banned by the system.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 55,
+            "paragraph": 56,
+            "text": "He could engage in normal investments and wealth management but their annual returns were too little to satisfy him.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 56,
+            "paragraph": 57,
+            "text": "Through the 200 violations, Pei Qian was not only limited in Profit activities, he was also limited for the Loss activities.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 2,
+            "focus_streak": 9
+        },
+        {
+            "segment_index": 57,
+            "paragraph": 58,
+            "text": "All in all, he was banned from doing anything illegal.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 58,
+            "paragraph": 59,
+            "text": "Pei Qian continued tapping on the screen to head to the next step.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 4,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with an action"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 4,
+            "focus_streak": 10
+        },
+        {
+            "segment_index": 62,
+            "paragraph": 63,
+            "text": "Pei Qian looked at it carefully, realizing that there seemed to be a bug.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 7,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with an action",
+                        "Character is associated with perception"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 7,
+            "focus_streak": 11
+        },
+        {
+            "segment_index": 63,
+            "paragraph": 64,
+            "text": "Wasn’t the Loss Conversion Ratio overly high?",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 64,
+            "paragraph": 65,
+            "text": "If he were to lose all of the System Funds, he could convert all of it to his Personal Wealth!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 65,
+            "paragraph": 66,
+            "text": "Losing money would be a winning situation for him!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 68,
+            "paragraph": 69,
+            "text": "Pei Qian felt as though his luck was off the roofs!",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 9,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with internal thought",
+                        "Character is associated with perception"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 9,
+            "focus_streak": 12
+        },
+        {
+            "segment_index": 70,
+            "paragraph": 71,
+            "text": "Pei Qian contemplated for a moment before filling the space with his thoughts: Tengda Network Technology Co., Ltd.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 8,
+                    "reasons": [
+                        "Character explicitly mentioned",
+                        "Character is associated with an action",
+                        "Character is associated with internal thought"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 8,
+            "focus_streak": 13
+        },
+        {
+            "segment_index": 71,
+            "paragraph": 72,
+            "text": "Tengda represented Soaring in",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 73,
+            "paragraph": 72,
+            "text": ".",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 74,
+            "paragraph": 73,
+            "text": "That was his wish – for the company to soar to great heights as soon as possible!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 76,
+            "paragraph": 75,
+            "text": "With the final step completed, the words on the screen disappeared and the menu returned to its initial state.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 78,
+            "paragraph": 77,
+            "text": "Pei Qian pondered over the meaning of the additional notes.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 2,
+            "focus_streak": 14
+        },
+        {
+            "segment_index": 79,
+            "paragraph": 78,
+            "text": "He can’t have any unannounced products a week before settlement.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 80,
+            "paragraph": 79,
+            "text": "That made sense.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 81,
+            "paragraph": 80,
+            "text": "If there wasn’t such a rule, he could dump any remaining System Funds before the settlement into the development of the new product, causing the System Funds to empty out and that would be a loophole.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 82,
+            "paragraph": 81,
+            "text": "With this rule, Pei Qian had to push out all his products on hand a week before settlement such that they would be accountable for any profits or losses – this was a step he couldn’t avoid anymore.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 2,
+            "focus_streak": 15
+        },
+        {
+            "segment_index": 86,
+            "paragraph": 84,
+            "text": "Pei Qian was brimming with confidence.",
+            "candidates": [
+                {
+                    "name": "Pei Qian",
+                    "score": 2,
+                    "reasons": [
+                        "Character explicitly mentioned"
+                    ]
+                }
+            ],
+            "current_focus": "Pei Qian",
+            "focus_score": 2,
+            "focus_streak": 16
+        },
+        {
+            "segment_index": 87,
+            "paragraph": 85,
+            "text": "Opening a company while creating value and new products in a normal way.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 88,
+            "paragraph": 86,
+            "text": "As the company’s boss, all he had to do was let that normalcy go slightly astray.",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 89,
+            "paragraph": 87,
+            "text": "Wasn’t that all there was to it?",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        },
+        {
+            "segment_index": 90,
+            "paragraph": 88,
+            "text": "Of all the companies created, there were only few which had succeeded while everyone else failed. It’s clear which was the easiest path to go about!",
+            "candidates": [],
+            "current_focus": null,
+            "focus_score": 0,
+            "focus_streak": 0
+        }
+    ]
+}

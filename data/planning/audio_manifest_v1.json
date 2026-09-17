@@ -1,0 +1,2240 @@
+{
+    "version": "TTS Engine V1",
+    "created_at": "2026-09-17T09:52:21.451327",
+    "source": "voice_plan_v1.json",
+    "output_directory": "audio_segments",
+    "statistics": {
+        "total_jobs": 89,
+        "pending": 89,
+        "narrator": 46,
+        "character": 11,
+        "system": 32
+    },
+    "jobs": [
+        {
+            "segment": 1,
+            "paragraph": 1,
+            "type": "NARRATION",
+            "text": "2009?!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/001_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 2,
+            "paragraph": 2,
+            "type": "NARRATION",
+            "text": "He had returned back in time by 10 years?",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/002_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 3,
+            "paragraph": 3,
+            "type": "NARRATION",
+            "text": "It took Pei Qian a moment of uneasiness before he accepted the truth with relative calmness.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/003_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 4,
+            "paragraph": 4,
+            "type": "NARRATION",
+            "text": "Ever since he graduated in 2013, he had been in two industries and changed jobs through multiple companies, meeting with extremely horrendous bosses while enduring the politics of corporate life.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/004_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 5,
+            "paragraph": 5,
+            "type": "NARRATION",
+            "text": "In any case, he was nothing but a slave of society.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/005_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 6,
+            "paragraph": 6,
+            "type": "NARRATION",
+            "text": "He was naturally ecstatic for something as wonderful as transmigrating to happen to him. Restarting life from 10 years ago, this was something that everyone could only dream of!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/006_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 7,
+            "paragraph": 7,
+            "type": "NARRATION",
+            "text": "Completely awake now, Pei Qian flipped and sat on his bed.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/007_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 8,
+            "paragraph": 8,
+            "type": "NARRATION",
+            "text": "What should he do next?",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/008_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 9,
+            "paragraph": 9,
+            "type": "NARRATION",
+            "text": "Right then, a transparent screen appeared before Pei Qian as lines of words began to fill up.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/009_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 10,
+            "paragraph": 10,
+            "type": "SYSTEM",
+            "text": "<Binding of the Wealth Conversion System in progress...>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/010_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 11,
+            "paragraph": 11,
+            "type": "SYSTEM",
+            "text": "<Binding success.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/011_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 12,
+            "paragraph": 12,
+            "type": "SYSTEM",
+            "text": "<Owner: Pei Qian>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/012_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 13,
+            "paragraph": 13,
+            "type": "SYSTEM",
+            "text": "<Please read through the instruction manual of the system.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/013_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 14,
+            "paragraph": 14,
+            "type": "DIALOGUE",
+            "text": "“What’s going on?!”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/014_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 15,
+            "paragraph": 15,
+            "type": "NARRATION",
+            "text": "Pei Qian was startled and overjoyed.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/015_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 16,
+            "paragraph": 16,
+            "type": "NARRATION",
+            "text": "Indeed, there would always be a system after transmigration! His cheat had arrived!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/016_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 17,
+            "paragraph": 17,
+            "type": "NARRATION",
+            "text": "Calm down, calm down! These were the usual patterns of how things went, it was nothing to fuss about!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/017_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 18,
+            "paragraph": 18,
+            "type": "NARRATION",
+            "text": "Pei Qian composed himself before long and looked at the message on the screen.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/018_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 19,
+            "paragraph": 19,
+            "type": "SYSTEM",
+            "text": "<Wealth Conversion System>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/019_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 20,
+            "paragraph": 20,
+            "type": "SYSTEM",
+            "text": "<Profit/Loss Conversion Ratio: Pending>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/020_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 21,
+            "paragraph": 21,
+            "type": "SYSTEM",
+            "text": "<System Funds: 50,000>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/021_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 22,
+            "paragraph": 22,
+            "type": "SYSTEM",
+            "text": "<Personal Wealth: 443>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/022_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 23,
+            "paragraph": 23,
+            "type": "NARRATION",
+            "text": "This was a menu.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/023_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 24,
+            "paragraph": 24,
+            "type": "NARRATION",
+            "text": "At the bottom of the menu was a dialog box used to display dynamic information – that must be the instruction manual.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/024_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 25,
+            "paragraph": 25,
+            "type": "SYSTEM",
+            "text": "<Wealth Conversion Rules:>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/025_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 26,
+            "paragraph": 26,
+            "type": "SYSTEM",
+            "text": "<During set periods, the system will provide the owner with a fixed amount of system funds. This fund can only be used for a company’s business activities and is not meant to be squandered.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/026_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 27,
+            "paragraph": 27,
+            "type": "SYSTEM",
+            "text": "<A tabulation for settlement will be conducted after a period of time and in accordance to the system’s profits/losses, a conversion to the owner’s personal wealth would be made based on the set ratio.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/027_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 28,
+            "paragraph": 28,
+            "type": "SYSTEM",
+            "text": "<Special Notice: In order to encourage the owner to focus on work, the owner may not pay himself a salary through the company’s accounts.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/028_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 29,
+            "paragraph": 29,
+            "type": "SYSTEM",
+            "text": "<Next step: Check out the detailed rules.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/029_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 30,
+            "paragraph": 30,
+            "type": "DIALOGUE",
+            "text": "“Woah? This is a sure win system!”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/030_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 31,
+            "paragraph": 31,
+            "type": "DIALOGUE",
+            "text": "“You’re not only providing me with funds, you’re even giving me money? A system with a conscience!”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/031_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 32,
+            "paragraph": 32,
+            "type": "NARRATION",
+            "text": "Instantly, Pei Qian understood the functions of the system.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/032_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 33,
+            "paragraph": 33,
+            "type": "NARRATION",
+            "text": "Even though both the System Funds and Personal Wealth aspects referred to money, they were completely different concepts.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/033_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 34,
+            "paragraph": 34,
+            "type": "NARRATION",
+            "text": "The 443 of the Personal Wealth referred to Pei Qian’s total amount of money which amounted to 443 yuan – this was money he could spend freely.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/034_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 35,
+            "paragraph": 35,
+            "type": "NARRATION",
+            "text": "As for the 50,000 yuan, those were the System Funds. According to the system’s rules, that amount of money could only be for business activities such as incorporating a company.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/035_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 36,
+            "paragraph": 36,
+            "type": "NARRATION",
+            "text": "After a period of time, be it whether he profits or loses, it will be converted to his Personal Wealth based on the set ratio and he could spend it as he wishes by then!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/036_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 37,
+            "paragraph": 37,
+            "type": "DIALOGUE",
+            "text": "“Exciting! Let’s take a look at the detailed rules!”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/037_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 38,
+            "paragraph": 38,
+            "type": "NARRATION",
+            "text": "Pei Qian continued tapping on the screen.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/038_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 39,
+            "paragraph": 39,
+            "type": "SYSTEM",
+            "text": "<The owner must engage in normal, logical and legal business activities that require some technical skills.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/039_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 40,
+            "paragraph": 40,
+            "type": "SYSTEM",
+            "text": "<The following are violations of the rules, do take note.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/040_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 41,
+            "paragraph": 41,
+            "type": "SYSTEM",
+            "text": "<Profit category:>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/041_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 42,
+            "paragraph": 42,
+            "type": "SYSTEM",
+            "text": "<1. Large scale purchasing or manipulating of property prices.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/042_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 43,
+            "paragraph": 43,
+            "type": "SYSTEM",
+            "text": "<2. Purchasing of cryptocurrency, engaging in Ponzi schemes and illegal crowdfundings or similarly illegal activities.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/043_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 44,
+            "paragraph": 44,
+            "type": "SYSTEM",
+            "text": "<3. Engaging in speculating and profiteering of stocks and materials or disrupting market forces.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/044_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 45,
+            "paragraph": 45,
+            "type": "SYSTEM",
+            "text": "<... (Tap here to display the remaining 97 violations>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/045_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 46,
+            "paragraph": 46,
+            "type": "SYSTEM",
+            "text": "<Loss category:>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/046_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 47,
+            "paragraph": 47,
+            "type": "SYSTEM",
+            "text": "<1. Doing charity or gifting of companies to others.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/047_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 48,
+            "paragraph": 48,
+            "type": "SYSTEM",
+            "text": "<2. Procuring or employing employees, renting office spaces and purchasing of equipment at prices way above market rates.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/048_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 49,
+            "paragraph": 49,
+            "type": "SYSTEM",
+            "text": "<3. Extreme idleness, abnormally low efficiency rate and long durations of not producing any value.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/049_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 50,
+            "paragraph": 50,
+            "type": "SYSTEM",
+            "text": "<Additional Rule: Owner must not reveal or hint at the existence of the system to anyone.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/050_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 51,
+            "paragraph": 51,
+            "type": "SYSTEM",
+            "text": "<The system holds the final decision on the definition of any violations.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/051_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 52,
+            "paragraph": 52,
+            "type": "SYSTEM",
+            "text": "<Next step: Randomly generated Profit Loss Conversion Ratio>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/052_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 53,
+            "paragraph": 53,
+            "type": "DIALOGUE",
+            "text": "“Such strict rules.”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/053_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 54,
+            "paragraph": 54,
+            "type": "NARRATION",
+            "text": "Pei Qian checked through the 200 violations and his plans were eliminated one after another.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/054_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 55,
+            "paragraph": 55,
+            "type": "NARRATION",
+            "text": "Speculating in property and purchasing of cryptocurrency were all banned by the system.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/055_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 56,
+            "paragraph": 56,
+            "type": "NARRATION",
+            "text": "He could engage in normal investments and wealth management but their annual returns were too little to satisfy him.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/056_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 57,
+            "paragraph": 57,
+            "type": "NARRATION",
+            "text": "Through the 200 violations, Pei Qian was not only limited in Profit activities, he was also limited for the Loss activities.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/057_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 58,
+            "paragraph": 58,
+            "type": "NARRATION",
+            "text": "All in all, he was banned from doing anything illegal.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/058_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 59,
+            "paragraph": 59,
+            "type": "NARRATION",
+            "text": "Pei Qian continued tapping on the screen to head to the next step.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/059_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 60,
+            "paragraph": 60,
+            "type": "SYSTEM",
+            "text": "<Profit Loss Conversion Ratio being generated randomly...>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/060_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 61,
+            "paragraph": 61,
+            "type": "SYSTEM",
+            "text": "<Profit Conversion Ratio is at 100:1. Loss Conversion Ratio is at 1:1>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/061_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 62,
+            "paragraph": 62,
+            "type": "DIALOGUE",
+            "text": "“Eh, hold on. This ratio...”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/062_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 63,
+            "paragraph": 63,
+            "type": "NARRATION",
+            "text": "Pei Qian looked at it carefully, realizing that there seemed to be a bug.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/063_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 64,
+            "paragraph": 64,
+            "type": "NARRATION",
+            "text": "Wasn’t the Loss Conversion Ratio overly high?",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/064_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 65,
+            "paragraph": 65,
+            "type": "NARRATION",
+            "text": "If he were to lose all of the System Funds, he could convert all of it to his Personal Wealth!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/065_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 66,
+            "paragraph": 66,
+            "type": "NARRATION",
+            "text": "Losing money would be a winning situation for him!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/066_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 67,
+            "paragraph": 67,
+            "type": "DIALOGUE",
+            "text": "“I was given such a great Conversion Ratio through a random generation? Lady Luck must be smiling at me!”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/067_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 68,
+            "paragraph": 68,
+            "type": "DIALOGUE",
+            "text": "“It’s a pity that the Profit Conversion Ratio is a little too low. But oh well, losing money is much easier than earning it!”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/068_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 69,
+            "paragraph": 69,
+            "type": "NARRATION",
+            "text": "Pei Qian felt as though his luck was off the roofs!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/069_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 70,
+            "paragraph": 70,
+            "type": "SYSTEM",
+            "text": "<Final step: Please name your company (Click here to enter)>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/070_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 71,
+            "paragraph": 71,
+            "type": "NARRATION",
+            "text": "Pei Qian contemplated for a moment before filling the space with his thoughts: Tengda Network Technology Co., Ltd.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/071_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 72,
+            "paragraph": 72,
+            "type": "NARRATION",
+            "text": "Tengda represented Soaring in ‘Soaring to meteoric rises’.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/072_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 73,
+            "paragraph": 73,
+            "type": "NARRATION",
+            "text": "That was his wish – for the company to soar to great heights as soon as possible!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/073_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 74,
+            "paragraph": 74,
+            "type": "SYSTEM",
+            "text": "<“Tengda Network Technology Co., Ltd.” registration completed.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/074_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 75,
+            "paragraph": 75,
+            "type": "NARRATION",
+            "text": "With the final step completed, the words on the screen disappeared and the menu returned to its initial state.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/075_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 76,
+            "paragraph": 76,
+            "type": "SYSTEM",
+            "text": "<Note: If there are unannounced products a week before settlement, the settlement date would be postponed. Postponement date would be determined by the system.>",
+            "voice_role": "SYSTEM",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "system_001",
+                "gender": "neutral",
+                "style": "synthetic",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 0.95,
+                "pause_before": 0.15,
+                "pause_after": 0.25,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/076_system_system.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 77,
+            "paragraph": 77,
+            "type": "NARRATION",
+            "text": "Pei Qian pondered over the meaning of the additional notes.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/077_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 78,
+            "paragraph": 78,
+            "type": "NARRATION",
+            "text": "He can’t have any unannounced products a week before settlement.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/078_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 79,
+            "paragraph": 79,
+            "type": "NARRATION",
+            "text": "That made sense.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/079_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 80,
+            "paragraph": 80,
+            "type": "NARRATION",
+            "text": "If there wasn’t such a rule, he could dump any remaining System Funds before the settlement into the development of the new product, causing the System Funds to empty out and that would be a loophole.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/080_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 81,
+            "paragraph": 81,
+            "type": "NARRATION",
+            "text": "With this rule, Pei Qian had to push out all his products on hand a week before settlement such that they would be accountable for any profits or losses – this was a step he couldn’t avoid anymore.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/081_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 82,
+            "paragraph": 82,
+            "type": "DIALOGUE",
+            "text": "“Another loophole closed. But, it doesn’t matter.”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/082_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 83,
+            "paragraph": 83,
+            "type": "DIALOGUE",
+            "text": "“So, what I have to do next is to turn the System Funds from 50,000 down to 0 while increasing my Personal Wealth from 443 to 50,443.>",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/083_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 84,
+            "paragraph": 84,
+            "type": "DIALOGUE",
+            "text": "“I just have to start losing money within the rules, right? That doesn’t seem too difficult.”",
+            "voice_role": "CHARACTER",
+            "speaker": "Pei Qian",
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "voice_001",
+                "gender": "female",
+                "style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.1,
+                "pause_after": 0.2,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/084_dialogue_Pei_Qian.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 85,
+            "paragraph": 84,
+            "type": "NARRATION",
+            "text": "Pei Qian was brimming with confidence.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/085_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 86,
+            "paragraph": 85,
+            "type": "NARRATION",
+            "text": "Opening a company while creating value and new products in a normal way.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/086_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 87,
+            "paragraph": 86,
+            "type": "NARRATION",
+            "text": "As the company’s boss, all he had to do was let that normalcy go slightly astray.",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/087_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 88,
+            "paragraph": 87,
+            "type": "NARRATION",
+            "text": "Wasn’t that all there was to it?",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": "Pei Qian",
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/088_narration_narrator.wav",
+            "status": "COMPLETED"
+        },
+        {
+            "segment": 89,
+            "paragraph": 88,
+            "type": "NARRATION",
+            "text": "Of all the companies created, there were only few which had succeeded while everyone else failed. It’s clear which was the easiest path to go about!",
+            "voice_role": "NARRATOR",
+            "speaker": null,
+            "character": null,
+            "voice": {
+                "voice_id": "narrator_001",
+                "gender": "neutral",
+                "style": "natural",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "delivery": {
+                "speed": 1.0,
+                "pause_before": 0.0,
+                "pause_after": 0.15,
+                "emphasis": "normal"
+            },
+            "audio_file": "audio_segments/089_narration_narrator.wav",
+            "status": "COMPLETED"
+        }
+    ]
+}

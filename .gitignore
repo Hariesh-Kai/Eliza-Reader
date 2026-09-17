@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+models/*.onnx
+models/*.onnx.json
+
+audio/segments/
+audio/chapters/
+
+voice_tests/
+*.wav
+
+.DS_Store

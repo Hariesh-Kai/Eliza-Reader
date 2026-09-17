@@ -1,0 +1,113 @@
+======================================================================
+ELIZA READER - SPEAKER CONTEXT V4
+======================================================================
+
+Dialogue segments : 11
+Identified        : 8
+Unknown           : 3
+High confidence   : 0
+Medium confidence : 8
+Low confidence    : 3
+
+----------------------------------------------------------------------
+DIALOGUE SPEAKER ANALYSIS
+----------------------------------------------------------------------
+
+PARAGRAPH [014]
+[DIALOGUE]
+“What’s going on?!”
+Speaker      : UNKNOWN
+Character ID : None
+Confidence   : LOW
+Reason       : Context evidence is too weak
+Voice ID     : None
+
+PARAGRAPH [030]
+[DIALOGUE]
+“Woah? This is a sure win system!”
+Speaker      : UNKNOWN
+Character ID : None
+Confidence   : LOW
+Reason       : Context evidence is too weak
+Voice ID     : None
+
+PARAGRAPH [031]
+[DIALOGUE]
+“You’re not only providing me with funds, you’re even giving me money? A system with a conscience!”
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found in immediately following narration; Character found in nearby following narration; Character is the current active speaker
+Voice ID     : voice_001
+
+PARAGRAPH [037]
+[DIALOGUE]
+“Exciting! Let’s take a look at the detailed rules!”
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found in nearby narration; Character found in immediately following narration; Character is the current active speaker
+Voice ID     : voice_001
+
+PARAGRAPH [053]
+[DIALOGUE]
+“Such strict rules.”
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found in immediately following narration; Character is the current active speaker
+Voice ID     : voice_001
+
+PARAGRAPH [062]
+[DIALOGUE]
+“Eh, hold on. This ratio...”
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found in nearby narration; Character found in immediately following narration; Character is the current active speaker
+Voice ID     : voice_001
+
+PARAGRAPH [067]
+[DIALOGUE]
+“I was given such a great Conversion Ratio through a random generation? Lady Luck must be smiling at me!”
+Speaker      : UNKNOWN
+Character ID : None
+Confidence   : LOW
+Reason       : Context evidence is too weak
+Voice ID     : None
+
+PARAGRAPH [068]
+[DIALOGUE]
+“It’s a pity that the Profit Conversion Ratio is a little too low. But oh well, losing money is much easier than earning it!”
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found in immediately following narration; Character found in nearby following narration; Character is the current active speaker
+Voice ID     : voice_001
+
+PARAGRAPH [082]
+[DIALOGUE]
+“Another loophole closed. But, it doesn’t matter.”
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found in immediately preceding narration; Character found in nearby following narration; Character is the current active speaker
+Voice ID     : voice_001
+
+PARAGRAPH [083]
+[DIALOGUE]
+“So, what I have to do next is to turn the System Funds from 50,000 down to 0 while increasing my Personal Wealth from 443 to 50,443.>
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found two segments before dialogue; Character found in nearby following narration; Character is the current active speaker
+Voice ID     : voice_001
+
+PARAGRAPH [084]
+[DIALOGUE]
+“I just have to start losing money within the rules, right? That doesn’t seem too difficult.”
+Speaker      : Pei Qian
+Character ID : pei_qian
+Confidence   : MEDIUM
+Reason       : Character found in nearby narration; Character found in immediately following narration; Character is the current active speaker
+Voice ID     : voice_001

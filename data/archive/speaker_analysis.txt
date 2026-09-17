@@ -1,0 +1,476 @@
+PARAGRAPH [001]
+[NARRATION]
+2009?!
+
+
+PARAGRAPH [002]
+[NARRATION]
+He had returned back in time by 10 years?
+
+
+PARAGRAPH [003]
+[NARRATION]
+It took Pei Qian a moment of uneasiness before he accepted the truth with relative calmness.
+
+
+PARAGRAPH [004]
+[NARRATION]
+Ever since he graduated in 2013, he had been in two industries and changed jobs through multiple companies, meeting with extremely horrendous bosses while enduring the politics of corporate life.
+
+
+PARAGRAPH [005]
+[NARRATION]
+In any case, he was nothing but a slave of society.
+
+
+PARAGRAPH [006]
+[NARRATION]
+He was naturally ecstatic for something as wonderful as transmigrating to happen to him. Restarting life from 10 years ago, this was something that everyone could only dream of!
+
+
+PARAGRAPH [007]
+[NARRATION]
+Completely awake now, Pei Qian flipped and sat on his bed.
+
+
+PARAGRAPH [008]
+[NARRATION]
+What should he do next?
+
+
+PARAGRAPH [009]
+[NARRATION]
+Right then, a transparent screen appeared before Pei Qian as lines of words began to fill up.
+
+
+PARAGRAPH [010]
+[SYSTEM]
+<Binding of the Wealth Conversion System in progress...>
+
+
+PARAGRAPH [011]
+[SYSTEM]
+<Binding success.>
+
+
+PARAGRAPH [012]
+[SYSTEM]
+<Owner: Pei Qian>
+
+
+PARAGRAPH [013]
+[SYSTEM]
+<Please read through the instruction manual of the system.>
+
+
+PARAGRAPH [014]
+[DIALOGUE]
+“What’s going on?!”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [015]
+[NARRATION]
+Pei Qian was startled and overjoyed.
+
+
+PARAGRAPH [016]
+[NARRATION]
+Indeed, there would always be a system after transmigration! His cheat had arrived!
+
+
+PARAGRAPH [017]
+[NARRATION]
+Calm down, calm down! These were the usual patterns of how things went, it was nothing to fuss about!
+
+
+PARAGRAPH [018]
+[NARRATION]
+Pei Qian composed himself before long and looked at the message on the screen.
+
+
+PARAGRAPH [019]
+[SYSTEM]
+<Wealth Conversion System>
+
+
+PARAGRAPH [020]
+[SYSTEM]
+<Profit/Loss Conversion Ratio: Pending>
+
+
+PARAGRAPH [021]
+[SYSTEM]
+<System Funds: 50,000>
+
+
+PARAGRAPH [022]
+[SYSTEM]
+<Personal Wealth: 443>
+
+
+PARAGRAPH [023]
+[NARRATION]
+This was a menu.
+
+
+PARAGRAPH [024]
+[NARRATION]
+At the bottom of the menu was a dialog box used to display dynamic information – that must be the instruction manual.
+
+
+PARAGRAPH [025]
+[SYSTEM]
+<Wealth Conversion Rules:>
+
+
+PARAGRAPH [026]
+[SYSTEM]
+<During set periods, the system will provide the owner with a fixed amount of system funds. This fund can only be used for a company’s business activities and is not meant to be squandered.>
+
+
+PARAGRAPH [027]
+[SYSTEM]
+<A tabulation for settlement will be conducted after a period of time and in accordance to the system’s profits/losses, a conversion to the owner’s personal wealth would be made based on the set ratio.>
+
+
+PARAGRAPH [028]
+[SYSTEM]
+<Special Notice: In order to encourage the owner to focus on work, the owner may not pay himself a salary through the company’s accounts.>
+
+
+PARAGRAPH [029]
+[SYSTEM]
+<Next step: Check out the detailed rules.>
+
+
+PARAGRAPH [030]
+[DIALOGUE]
+“Woah? This is a sure win system!”
+Speaker: UNKNOWN
+Confidence: LOW
+Reason: No reliable speaker evidence
+
+
+PARAGRAPH [031]
+[DIALOGUE]
+“You’re not only providing me with funds, you’re even giving me money? A system with a conscience!”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [032]
+[NARRATION]
+Instantly, Pei Qian understood the functions of the system.
+
+
+PARAGRAPH [033]
+[NARRATION]
+Even though both the System Funds and Personal Wealth aspects referred to money, they were completely different concepts.
+
+
+PARAGRAPH [034]
+[NARRATION]
+The 443 of the Personal Wealth referred to Pei Qian’s total amount of money which amounted to 443 yuan – this was money he could spend freely.
+
+
+PARAGRAPH [035]
+[NARRATION]
+As for the 50,000 yuan, those were the System Funds. According to the system’s rules, that amount of money could only be for business activities such as incorporating a company.
+
+
+PARAGRAPH [036]
+[NARRATION]
+After a period of time, be it whether he profits or loses, it will be converted to his Personal Wealth based on the set ratio and he could spend it as he wishes by then!
+
+
+PARAGRAPH [037]
+[DIALOGUE]
+“Exciting! Let’s take a look at the detailed rules!”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [038]
+[NARRATION]
+Pei Qian continued tapping on the screen.
+
+
+PARAGRAPH [039]
+[SYSTEM]
+<The owner must engage in normal, logical and legal business activities that require some technical skills.>
+
+
+PARAGRAPH [040]
+[SYSTEM]
+<The following are violations of the rules, do take note.>
+
+
+PARAGRAPH [041]
+[SYSTEM]
+<Profit category:>
+
+
+PARAGRAPH [042]
+[SYSTEM]
+<1. Large scale purchasing or manipulating of property prices.>
+
+
+PARAGRAPH [043]
+[SYSTEM]
+<2. Purchasing of cryptocurrency, engaging in Ponzi schemes and illegal crowdfundings or similarly illegal activities.>
+
+
+PARAGRAPH [044]
+[SYSTEM]
+<3. Engaging in speculating and profiteering of stocks and materials or disrupting market forces.>
+
+
+PARAGRAPH [045]
+[SYSTEM]
+<... (Tap here to display the remaining 97 violations>
+
+
+PARAGRAPH [046]
+[SYSTEM]
+<Loss category:>
+
+
+PARAGRAPH [047]
+[SYSTEM]
+<1. Doing charity or gifting of companies to others.>
+
+
+PARAGRAPH [048]
+[SYSTEM]
+<2. Procuring or employing employees, renting office spaces and purchasing of equipment at prices way above market rates.>
+
+
+PARAGRAPH [049]
+[SYSTEM]
+<3. Extreme idleness, abnormally low efficiency rate and long durations of not producing any value.>
+
+
+PARAGRAPH [050]
+[SYSTEM]
+<Additional Rule: Owner must not reveal or hint at the existence of the system to anyone.>
+
+
+PARAGRAPH [051]
+[SYSTEM]
+<The system holds the final decision on the definition of any violations.>
+
+
+PARAGRAPH [052]
+[SYSTEM]
+<Next step: Randomly generated Profit Loss Conversion Ratio>
+
+
+PARAGRAPH [053]
+[DIALOGUE]
+“Such strict rules.”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [054]
+[NARRATION]
+Pei Qian checked through the 200 violations and his plans were eliminated one after another.
+
+
+PARAGRAPH [055]
+[NARRATION]
+Speculating in property and purchasing of cryptocurrency were all banned by the system.
+
+
+PARAGRAPH [056]
+[NARRATION]
+He could engage in normal investments and wealth management but their annual returns were too little to satisfy him.
+
+
+PARAGRAPH [057]
+[NARRATION]
+Through the 200 violations, Pei Qian was not only limited in Profit activities, he was also limited for the Loss activities.
+
+
+PARAGRAPH [058]
+[NARRATION]
+All in all, he was banned from doing anything illegal.
+
+
+PARAGRAPH [059]
+[NARRATION]
+Pei Qian continued tapping on the screen to head to the next step.
+
+
+PARAGRAPH [060]
+[SYSTEM]
+<Profit Loss Conversion Ratio being generated randomly...>
+
+
+PARAGRAPH [061]
+[SYSTEM]
+<Profit Conversion Ratio is at 100:1. Loss Conversion Ratio is at 1:1>
+
+
+PARAGRAPH [062]
+[DIALOGUE]
+“Eh, hold on. This ratio...”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [063]
+[NARRATION]
+Pei Qian looked at it carefully, realizing that there seemed to be a bug.
+
+
+PARAGRAPH [064]
+[NARRATION]
+Wasn’t the Loss Conversion Ratio overly high?
+
+
+PARAGRAPH [065]
+[NARRATION]
+If he were to lose all of the System Funds, he could convert all of it to his Personal Wealth!
+
+
+PARAGRAPH [066]
+[NARRATION]
+Losing money would be a winning situation for him!
+
+
+PARAGRAPH [067]
+[DIALOGUE]
+“I was given such a great Conversion Ratio through a random generation? Lady Luck must be smiling at me!”
+Speaker: UNKNOWN
+Confidence: LOW
+Reason: No reliable speaker evidence
+
+
+PARAGRAPH [068]
+[DIALOGUE]
+“It’s a pity that the Profit Conversion Ratio is a little too low. But oh well, losing money is much easier than earning it!”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [069]
+[NARRATION]
+Pei Qian felt as though his luck was off the roofs!
+
+
+PARAGRAPH [070]
+[SYSTEM]
+<Final step: Please name your company (Click here to enter)>
+
+
+PARAGRAPH [071]
+[NARRATION]
+Pei Qian contemplated for a moment before filling the space with his thoughts: Tengda Network Technology Co., Ltd.
+
+
+PARAGRAPH [072]
+[NARRATION]
+Tengda represented Soaring in ‘Soaring to meteoric rises’.
+
+
+PARAGRAPH [073]
+[NARRATION]
+That was his wish – for the company to soar to great heights as soon as possible!
+
+
+PARAGRAPH [074]
+[SYSTEM]
+<“Tengda Network Technology Co., Ltd.” registration completed.>
+
+
+PARAGRAPH [075]
+[NARRATION]
+With the final step completed, the words on the screen disappeared and the menu returned to its initial state.
+
+
+PARAGRAPH [076]
+[SYSTEM]
+<Note: If there are unannounced products a week before settlement, the settlement date would be postponed. Postponement date would be determined by the system.>
+
+
+PARAGRAPH [077]
+[NARRATION]
+Pei Qian pondered over the meaning of the additional notes.
+
+
+PARAGRAPH [078]
+[NARRATION]
+He can’t have any unannounced products a week before settlement.
+
+
+PARAGRAPH [079]
+[NARRATION]
+That made sense.
+
+
+PARAGRAPH [080]
+[NARRATION]
+If there wasn’t such a rule, he could dump any remaining System Funds before the settlement into the development of the new product, causing the System Funds to empty out and that would be a loophole.
+
+
+PARAGRAPH [081]
+[NARRATION]
+With this rule, Pei Qian had to push out all his products on hand a week before settlement such that they would be accountable for any profits or losses – this was a step he couldn’t avoid anymore.
+
+
+PARAGRAPH [082]
+[DIALOGUE]
+“Another loophole closed. But, it doesn’t matter.”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [083]
+[DIALOGUE]
+“So, what I have to do next is to turn the System Funds from 50,000 down to 0 while increasing my Personal Wealth from 443 to 50,443.>
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+
+PARAGRAPH [084]
+[DIALOGUE]
+“I just have to start losing money within the rules, right? That doesn’t seem too difficult.”
+Speaker: Pei Qian
+Confidence: MEDIUM
+Reason: Character found in nearby narration
+
+[NARRATION]
+Pei Qian was brimming with confidence.
+
+
+PARAGRAPH [085]
+[NARRATION]
+Opening a company while creating value and new products in a normal way.
+
+
+PARAGRAPH [086]
+[NARRATION]
+As the company’s boss, all he had to do was let that normalcy go slightly astray.
+
+
+PARAGRAPH [087]
+[NARRATION]
+Wasn’t that all there was to it?
+
+
+PARAGRAPH [088]
+[NARRATION]
+Of all the companies created, there were only few which had succeeded while everyone else failed. It’s clear which was the easiest path to go about!
+
+

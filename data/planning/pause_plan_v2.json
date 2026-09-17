@@ -1,0 +1,808 @@
+{
+  "version": "pause_v2",
+  "total_segments": 89,
+  "total_pause_before": 26.68,
+  "segments": [
+    {
+      "segment": 1,
+      "paragraph": 1,
+      "type": "NARRATION",
+      "text": "2009?!",
+      "pause_before": 0.0,
+      "ending": "question_exclamation",
+      "pause_after": 0.52
+    },
+    {
+      "segment": 2,
+      "paragraph": 2,
+      "type": "NARRATION",
+      "text": "He had returned back in time by 10 years?",
+      "pause_before": 0.35,
+      "ending": "question",
+      "pause_after": 0.42
+    },
+    {
+      "segment": 3,
+      "paragraph": 3,
+      "type": "NARRATION",
+      "text": "It took Pei Qian a moment of uneasiness before he accepted the truth with relative calmness.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 4,
+      "paragraph": 4,
+      "type": "NARRATION",
+      "text": "Ever since he graduated in 2013, he had been in two industries and changed jobs through multiple companies, meeting with extremely horrendous bosses while enduring the politics of corporate life.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 5,
+      "paragraph": 5,
+      "type": "NARRATION",
+      "text": "In any case, he was nothing but a slave of society.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 6,
+      "paragraph": 6,
+      "type": "NARRATION",
+      "text": "He was naturally ecstatic for something as wonderful as transmigrating to happen to him. Restarting life from 10 years ago, this was something that everyone could only dream of!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 7,
+      "paragraph": 7,
+      "type": "NARRATION",
+      "text": "Completely awake now, Pei Qian flipped and sat on his bed.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 8,
+      "paragraph": 8,
+      "type": "NARRATION",
+      "text": "What should he do next?",
+      "pause_before": 0.35,
+      "ending": "question",
+      "pause_after": 0.42
+    },
+    {
+      "segment": 9,
+      "paragraph": 9,
+      "type": "NARRATION",
+      "text": "Right then, a transparent screen appeared before Pei Qian as lines of words began to fill up.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 10,
+      "paragraph": 10,
+      "type": "SYSTEM",
+      "text": "<Binding of the Wealth Conversion System in progress...>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 11,
+      "paragraph": 11,
+      "type": "SYSTEM",
+      "text": "<Binding success.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 12,
+      "paragraph": 12,
+      "type": "SYSTEM",
+      "text": "<Owner: Pei Qian>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 13,
+      "paragraph": 13,
+      "type": "SYSTEM",
+      "text": "<Please read through the instruction manual of the system.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 14,
+      "paragraph": 14,
+      "type": "DIALOGUE",
+      "text": "“What’s going on?!”",
+      "pause_before": 0.5,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 15,
+      "paragraph": 15,
+      "type": "NARRATION",
+      "text": "Pei Qian was startled and overjoyed.",
+      "pause_before": 0.32,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 16,
+      "paragraph": 16,
+      "type": "NARRATION",
+      "text": "Indeed, there would always be a system after transmigration! His cheat had arrived!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 17,
+      "paragraph": 17,
+      "type": "NARRATION",
+      "text": "Calm down, calm down! These were the usual patterns of how things went, it was nothing to fuss about!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 18,
+      "paragraph": 18,
+      "type": "NARRATION",
+      "text": "Pei Qian composed himself before long and looked at the message on the screen.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 19,
+      "paragraph": 19,
+      "type": "SYSTEM",
+      "text": "<Wealth Conversion System>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 20,
+      "paragraph": 20,
+      "type": "SYSTEM",
+      "text": "<Profit/Loss Conversion Ratio: Pending>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 21,
+      "paragraph": 21,
+      "type": "SYSTEM",
+      "text": "<System Funds: 50,000>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 22,
+      "paragraph": 22,
+      "type": "SYSTEM",
+      "text": "<Personal Wealth: 443>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 23,
+      "paragraph": 23,
+      "type": "NARRATION",
+      "text": "This was a menu.",
+      "pause_before": 0.5,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 24,
+      "paragraph": 24,
+      "type": "NARRATION",
+      "text": "At the bottom of the menu was a dialog box used to display dynamic information – that must be the instruction manual.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 25,
+      "paragraph": 25,
+      "type": "SYSTEM",
+      "text": "<Wealth Conversion Rules:>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 26,
+      "paragraph": 26,
+      "type": "SYSTEM",
+      "text": "<During set periods, the system will provide the owner with a fixed amount of system funds. This fund can only be used for a company’s business activities and is not meant to be squandered.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 27,
+      "paragraph": 27,
+      "type": "SYSTEM",
+      "text": "<A tabulation for settlement will be conducted after a period of time and in accordance to the system’s profits/losses, a conversion to the owner’s personal wealth would be made based on the set ratio.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 28,
+      "paragraph": 28,
+      "type": "SYSTEM",
+      "text": "<Special Notice: In order to encourage the owner to focus on work, the owner may not pay himself a salary through the company’s accounts.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 29,
+      "paragraph": 29,
+      "type": "SYSTEM",
+      "text": "<Next step: Check out the detailed rules.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 30,
+      "paragraph": 30,
+      "type": "DIALOGUE",
+      "text": "“Woah? This is a sure win system!”",
+      "pause_before": 0.5,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 31,
+      "paragraph": 31,
+      "type": "DIALOGUE",
+      "text": "“You’re not only providing me with funds, you’re even giving me money? A system with a conscience!”",
+      "pause_before": 0.15,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 32,
+      "paragraph": 32,
+      "type": "NARRATION",
+      "text": "Instantly, Pei Qian understood the functions of the system.",
+      "pause_before": 0.32,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 33,
+      "paragraph": 33,
+      "type": "NARRATION",
+      "text": "Even though both the System Funds and Personal Wealth aspects referred to money, they were completely different concepts.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 34,
+      "paragraph": 34,
+      "type": "NARRATION",
+      "text": "The 443 of the Personal Wealth referred to Pei Qian’s total amount of money which amounted to 443 yuan – this was money he could spend freely.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 35,
+      "paragraph": 35,
+      "type": "NARRATION",
+      "text": "As for the 50,000 yuan, those were the System Funds. According to the system’s rules, that amount of money could only be for business activities such as incorporating a company.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 36,
+      "paragraph": 36,
+      "type": "NARRATION",
+      "text": "After a period of time, be it whether he profits or loses, it will be converted to his Personal Wealth based on the set ratio and he could spend it as he wishes by then!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 37,
+      "paragraph": 37,
+      "type": "DIALOGUE",
+      "text": "“Exciting! Let’s take a look at the detailed rules!”",
+      "pause_before": 0.38,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 38,
+      "paragraph": 38,
+      "type": "NARRATION",
+      "text": "Pei Qian continued tapping on the screen.",
+      "pause_before": 0.32,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 39,
+      "paragraph": 39,
+      "type": "SYSTEM",
+      "text": "<The owner must engage in normal, logical and legal business activities that require some technical skills.>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 40,
+      "paragraph": 40,
+      "type": "SYSTEM",
+      "text": "<The following are violations of the rules, do take note.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 41,
+      "paragraph": 41,
+      "type": "SYSTEM",
+      "text": "<Profit category:>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 42,
+      "paragraph": 42,
+      "type": "SYSTEM",
+      "text": "<1. Large scale purchasing or manipulating of property prices.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 43,
+      "paragraph": 43,
+      "type": "SYSTEM",
+      "text": "<2. Purchasing of cryptocurrency, engaging in Ponzi schemes and illegal crowdfundings or similarly illegal activities.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 44,
+      "paragraph": 44,
+      "type": "SYSTEM",
+      "text": "<3. Engaging in speculating and profiteering of stocks and materials or disrupting market forces.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 45,
+      "paragraph": 45,
+      "type": "SYSTEM",
+      "text": "<... (Tap here to display the remaining 97 violations>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 46,
+      "paragraph": 46,
+      "type": "SYSTEM",
+      "text": "<Loss category:>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 47,
+      "paragraph": 47,
+      "type": "SYSTEM",
+      "text": "<1. Doing charity or gifting of companies to others.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 48,
+      "paragraph": 48,
+      "type": "SYSTEM",
+      "text": "<2. Procuring or employing employees, renting office spaces and purchasing of equipment at prices way above market rates.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 49,
+      "paragraph": 49,
+      "type": "SYSTEM",
+      "text": "<3. Extreme idleness, abnormally low efficiency rate and long durations of not producing any value.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 50,
+      "paragraph": 50,
+      "type": "SYSTEM",
+      "text": "<Additional Rule: Owner must not reveal or hint at the existence of the system to anyone.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 51,
+      "paragraph": 51,
+      "type": "SYSTEM",
+      "text": "<The system holds the final decision on the definition of any violations.>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 52,
+      "paragraph": 52,
+      "type": "SYSTEM",
+      "text": "<Next step: Randomly generated Profit Loss Conversion Ratio>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 53,
+      "paragraph": 53,
+      "type": "DIALOGUE",
+      "text": "“Such strict rules.”",
+      "pause_before": 0.5,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 54,
+      "paragraph": 54,
+      "type": "NARRATION",
+      "text": "Pei Qian checked through the 200 violations and his plans were eliminated one after another.",
+      "pause_before": 0.32,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 55,
+      "paragraph": 55,
+      "type": "NARRATION",
+      "text": "Speculating in property and purchasing of cryptocurrency were all banned by the system.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 56,
+      "paragraph": 56,
+      "type": "NARRATION",
+      "text": "He could engage in normal investments and wealth management but their annual returns were too little to satisfy him.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 57,
+      "paragraph": 57,
+      "type": "NARRATION",
+      "text": "Through the 200 violations, Pei Qian was not only limited in Profit activities, he was also limited for the Loss activities.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 58,
+      "paragraph": 58,
+      "type": "NARRATION",
+      "text": "All in all, he was banned from doing anything illegal.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 59,
+      "paragraph": 59,
+      "type": "NARRATION",
+      "text": "Pei Qian continued tapping on the screen to head to the next step.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 60,
+      "paragraph": 60,
+      "type": "SYSTEM",
+      "text": "<Profit Loss Conversion Ratio being generated randomly...>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 61,
+      "paragraph": 61,
+      "type": "SYSTEM",
+      "text": "<Profit Conversion Ratio is at 100:1. Loss Conversion Ratio is at 1:1>",
+      "pause_before": 0.1,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 62,
+      "paragraph": 62,
+      "type": "DIALOGUE",
+      "text": "“Eh, hold on. This ratio...”",
+      "pause_before": 0.5,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 63,
+      "paragraph": 63,
+      "type": "NARRATION",
+      "text": "Pei Qian looked at it carefully, realizing that there seemed to be a bug.",
+      "pause_before": 0.32,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 64,
+      "paragraph": 64,
+      "type": "NARRATION",
+      "text": "Wasn’t the Loss Conversion Ratio overly high?",
+      "pause_before": 0.35,
+      "ending": "question",
+      "pause_after": 0.42
+    },
+    {
+      "segment": 65,
+      "paragraph": 65,
+      "type": "NARRATION",
+      "text": "If he were to lose all of the System Funds, he could convert all of it to his Personal Wealth!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 66,
+      "paragraph": 66,
+      "type": "NARRATION",
+      "text": "Losing money would be a winning situation for him!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 67,
+      "paragraph": 67,
+      "type": "DIALOGUE",
+      "text": "“I was given such a great Conversion Ratio through a random generation? Lady Luck must be smiling at me!”",
+      "pause_before": 0.38,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 68,
+      "paragraph": 68,
+      "type": "DIALOGUE",
+      "text": "“It’s a pity that the Profit Conversion Ratio is a little too low. But oh well, losing money is much easier than earning it!”",
+      "pause_before": 0.15,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 69,
+      "paragraph": 69,
+      "type": "NARRATION",
+      "text": "Pei Qian felt as though his luck was off the roofs!",
+      "pause_before": 0.32,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 70,
+      "paragraph": 70,
+      "type": "SYSTEM",
+      "text": "<Final step: Please name your company (Click here to enter)>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 71,
+      "paragraph": 71,
+      "type": "NARRATION",
+      "text": "Pei Qian contemplated for a moment before filling the space with his thoughts: Tengda Network Technology Co., Ltd.",
+      "pause_before": 0.5,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 72,
+      "paragraph": 72,
+      "type": "NARRATION",
+      "text": "Tengda represented Soaring in ‘Soaring to meteoric rises’.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 73,
+      "paragraph": 73,
+      "type": "NARRATION",
+      "text": "That was his wish – for the company to soar to great heights as soon as possible!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    },
+    {
+      "segment": 74,
+      "paragraph": 74,
+      "type": "SYSTEM",
+      "text": "<“Tengda Network Technology Co., Ltd.” registration completed.>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 75,
+      "paragraph": 75,
+      "type": "NARRATION",
+      "text": "With the final step completed, the words on the screen disappeared and the menu returned to its initial state.",
+      "pause_before": 0.5,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 76,
+      "paragraph": 76,
+      "type": "SYSTEM",
+      "text": "<Note: If there are unannounced products a week before settlement, the settlement date would be postponed. Postponement date would be determined by the system.>",
+      "pause_before": 0.55,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 77,
+      "paragraph": 77,
+      "type": "NARRATION",
+      "text": "Pei Qian pondered over the meaning of the additional notes.",
+      "pause_before": 0.5,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 78,
+      "paragraph": 78,
+      "type": "NARRATION",
+      "text": "He can’t have any unannounced products a week before settlement.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 79,
+      "paragraph": 79,
+      "type": "NARRATION",
+      "text": "That made sense.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 80,
+      "paragraph": 80,
+      "type": "NARRATION",
+      "text": "If there wasn’t such a rule, he could dump any remaining System Funds before the settlement into the development of the new product, causing the System Funds to empty out and that would be a loophole.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 81,
+      "paragraph": 81,
+      "type": "NARRATION",
+      "text": "With this rule, Pei Qian had to push out all his products on hand a week before settlement such that they would be accountable for any profits or losses – this was a step he couldn’t avoid anymore.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 82,
+      "paragraph": 82,
+      "type": "DIALOGUE",
+      "text": "“Another loophole closed. But, it doesn’t matter.”",
+      "pause_before": 0.38,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 83,
+      "paragraph": 83,
+      "type": "DIALOGUE",
+      "text": "“So, what I have to do next is to turn the System Funds from 50,000 down to 0 while increasing my Personal Wealth from 443 to 50,443.>",
+      "pause_before": 0.15,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 84,
+      "paragraph": 84,
+      "type": "DIALOGUE",
+      "text": "“I just have to start losing money within the rules, right? That doesn’t seem too difficult.”",
+      "pause_before": 0.15,
+      "ending": "none",
+      "pause_after": 0.15
+    },
+    {
+      "segment": 85,
+      "paragraph": 84,
+      "type": "NARRATION",
+      "text": "Pei Qian was brimming with confidence.",
+      "pause_before": 0.32,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 86,
+      "paragraph": 85,
+      "type": "NARRATION",
+      "text": "Opening a company while creating value and new products in a normal way.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 87,
+      "paragraph": 86,
+      "type": "NARRATION",
+      "text": "As the company’s boss, all he had to do was let that normalcy go slightly astray.",
+      "pause_before": 0.35,
+      "ending": "period",
+      "pause_after": 0.28
+    },
+    {
+      "segment": 88,
+      "paragraph": 87,
+      "type": "NARRATION",
+      "text": "Wasn’t that all there was to it?",
+      "pause_before": 0.35,
+      "ending": "question",
+      "pause_after": 0.42
+    },
+    {
+      "segment": 89,
+      "paragraph": 88,
+      "type": "NARRATION",
+      "text": "Of all the companies created, there were only few which had succeeded while everyone else failed. It’s clear which was the easiest path to go about!",
+      "pause_before": 0.35,
+      "ending": "exclamation",
+      "pause_after": 0.38
+    }
+  ]
+}

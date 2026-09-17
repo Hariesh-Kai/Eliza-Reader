@@ -1,0 +1,22 @@
+{
+    "characters": {
+        "pei_qian": {
+            "name": "Pei Qian",
+            "aliases": [],
+            "voice": {
+                "voice_id": "voice_001",
+                "voice_gender": "female",
+                "voice_style": "calm",
+                "speed": 1.0,
+                "pitch": 0,
+                "emotion": "neutral"
+            },
+            "statistics": {
+                "dialogue_count": 9,
+                "high_confidence_count": 0,
+                "medium_confidence_count": 9,
+                "low_confidence_count": 0
+            }
+        }
+    }
+}
