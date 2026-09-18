@@ -1,7 +1,7 @@
 {
     "version": "Voice Planner V1",
-    "source": "chapter_interpretation.json",
-    "character_source": "characters.json",
+    "source": "data/analysis/chapter_interpretation.json",
+    "character_source": "data/analysis/characters.json",
     "statistics": {
         "total_segments": 89,
         "narrator_segments": 46,

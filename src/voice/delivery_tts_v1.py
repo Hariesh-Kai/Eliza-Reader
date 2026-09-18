@@ -10,10 +10,10 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
-DELIVERY_FILE = BASE_DIR / "delivery_plan_v1.json"
-VOICE_PLAN_FILE = BASE_DIR / "voice_plan_v1.json"
+DELIVERY_FILE = Path("data/planning/delivery_plan_v1.json")
+VOICE_PLAN_FILE = Path("data/planning/voice_plan_v1.json")
 
-AUDIO_DIR = BASE_DIR / "audio_segments"
+AUDIO_DIR = Path("audio/segments")
 
 
 # ------------------------------------------------------------

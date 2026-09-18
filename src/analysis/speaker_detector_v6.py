@@ -3,10 +3,10 @@ import re
 from pathlib import Path
 
 
-INPUT_FILE = "analyzed_story_v3.txt"
-CONTEXT_FILE = "character_context_v2.json"
-CHARACTER_FILE = "characters.json"
-OUTPUT_FILE = "speaker_analysis_v6.json"
+INPUT_FILE = "data/analysis/analyzed_story_v3.txt"
+CONTEXT_FILE = "data/analysis/character_context_v2.json"
+CHARACTER_FILE = "data/analysis/characters.json"
+OUTPUT_FILE = "data/analysis/speaker_analysis_v6.json"
 
 
 # ============================================================

@@ -21,7 +21,7 @@ from typing import Dict, List, Optional
 # ============================================================
 
 
-MEMORY_FILE = "characters.json"
+MEMORY_FILE = "data/analysis/characters.json"
 
 
 # ============================================================

@@ -1,8 +1,8 @@
 import re
 from pathlib import Path
 
-INPUT_FILE = "extracted_story.txt"
-OUTPUT_FILE = "analyzed_story_v3.txt"
+INPUT_FILE = "data/source/extracted_story.txt"
+OUTPUT_FILE = "data/analysis/analyzed_story_v3.txt"
 
 
 # ============================================================

@@ -1,10 +1,10 @@
 {
     "version": "Chapter Interpreter V1",
     "sources": {
-        "story": "analyzed_story_v3.txt",
-        "context": "character_context_v2.json",
-        "speaker_analysis": "speaker_analysis_v6.json",
-        "characters": "characters.json"
+        "story": "data/analysis/analyzed_story_v3.txt",
+        "context": "data/analysis/character_context_v2.json",
+        "speaker_analysis": "data/analysis/speaker_analysis_v6.json",
+        "characters": "data/analysis/characters.json"
     },
     "statistics": {
         "total_segments": 89,

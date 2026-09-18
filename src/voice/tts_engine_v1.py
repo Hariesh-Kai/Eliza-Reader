@@ -4,10 +4,10 @@ from pathlib import Path
 from datetime import datetime
 
 
-INPUT_FILE = "voice_plan_v1.json"
+INPUT_FILE = "data/planning/voice_plan_v1.json"
 
-OUTPUT_DIR = Path("audio_segments")
-MANIFEST_FILE = "audio_manifest_v1.json"
+OUTPUT_DIR = Path("audio/segments")
+MANIFEST_FILE = "data/planning/audio_manifest_v1.json"
 
 
 # ============================================================

@@ -3,12 +3,12 @@ import json
 from pathlib import Path
 from typing import List, Dict
 
-from character_memory import CharacterMemory
+from src.analysis.character_memory import CharacterMemory
 
 
-INPUT_FILE = "analyzed_story_v2.txt"
-MEMORY_FILE = "characters.json"
-OUTPUT_FILE = "character_context.json"
+INPUT_FILE = "data/analysis/analyzed_story_v3.txt"
+MEMORY_FILE = "data/analysis/characters.json"
+OUTPUT_FILE = "data/analysis/character_context.json"
 
 
 # ============================================================

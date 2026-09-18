@@ -5,9 +5,9 @@ from pathlib import Path
 from typing import Dict, List
 
 
-INPUT_FILE = "analyzed_story_v3.txt"
-CHARACTER_FILE = "characters.json"
-OUTPUT_FILE = "character_context_v2.json"
+INPUT_FILE = "data/analysis/analyzed_story_v3.txt"
+CHARACTER_FILE = "data/analysis/characters.json"
+OUTPUT_FILE = "data/analysis/character_context_v2.json"
 
 
 # ============================================================

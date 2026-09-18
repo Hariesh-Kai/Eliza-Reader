@@ -1,4 +1,4 @@
-from webpage_extractor import extract_story
+from src.acquisition.webpage_extractor import extract_story
 
 
 def main():

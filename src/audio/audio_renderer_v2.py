@@ -5,9 +5,9 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
-PAUSE_PLAN_FILE = BASE_DIR / "pause_plan_v2.json"
-AUDIO_DIR = BASE_DIR / "audio_segments"
-OUTPUT_FILE = BASE_DIR / "chapter_001.wav"
+PAUSE_PLAN_FILE = Path("data/planning/pause_plan_v2.json")
+AUDIO_DIR = Path("audio/segments")
+OUTPUT_FILE = Path("audio/chapters/chapter_001.wav")
 
 
 def load_pause_plan():

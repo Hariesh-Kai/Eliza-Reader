@@ -2,8 +2,8 @@ from pathlib import Path
 import wave
 
 
-AUDIO_DIR = Path("audio_segments")
-OUTPUT_FILE = Path("chapter_001.wav")
+AUDIO_DIR = Path("audio/segments")
+OUTPUT_FILE = Path("audio/chapters/chapter_001.wav")
 
 
 def get_audio_segments():

@@ -12,3 +12,7 @@ voice_tests/
 *.wav
 
 .DS_Store
+
+# Acquired source material
+data/source/page.html
+data/source/extracted_story.txt

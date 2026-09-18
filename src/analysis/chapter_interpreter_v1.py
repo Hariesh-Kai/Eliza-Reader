@@ -2,12 +2,12 @@ import json
 from pathlib import Path
 
 
-STORY_FILE = "analyzed_story_v3.txt"
-CONTEXT_FILE = "character_context_v2.json"
-SPEAKER_FILE = "speaker_analysis_v6.json"
-CHARACTER_FILE = "characters.json"
+STORY_FILE = "data/analysis/analyzed_story_v3.txt"
+CONTEXT_FILE = "data/analysis/character_context_v2.json"
+SPEAKER_FILE = "data/analysis/speaker_analysis_v6.json"
+CHARACTER_FILE = "data/analysis/characters.json"
 
-OUTPUT_FILE = "chapter_interpretation.json"
+OUTPUT_FILE = "data/analysis/chapter_interpretation.json"
 
 
 # ============================================================

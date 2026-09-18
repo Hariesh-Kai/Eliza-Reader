@@ -5,8 +5,8 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
-INPUT_FILE = BASE_DIR / "chapter_interpretation.json"
-OUTPUT_FILE = BASE_DIR / "pause_plan_v2.json"
+INPUT_FILE = Path("data/analysis/chapter_interpretation.json")
+OUTPUT_FILE = Path("data/planning/pause_plan_v2.json")
 
 
 # ---------------------------------------------------------

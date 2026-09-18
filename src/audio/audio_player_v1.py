@@ -3,8 +3,8 @@ import wave
 import sys
 
 
-AUDIO_DIR = Path("audio_segments")
-OUTPUT_FILE = Path("chapter_001.wav")
+AUDIO_DIR = Path("audio/segments")
+OUTPUT_FILE = Path("audio/chapters/chapter_001.wav")
 
 
 def read_wav_info(path):

@@ -3,7 +3,7 @@ import subprocess
 from pathlib import Path
 
 
-MANIFEST_FILE = "audio_manifest_v1.json"
+MANIFEST_FILE = "data/planning/audio_manifest_v1.json"
 
 # Piper model paths.
 # We will configure these after downloading the actual models.

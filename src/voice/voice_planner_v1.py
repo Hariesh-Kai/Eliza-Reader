@@ -2,9 +2,9 @@ import json
 from pathlib import Path
 
 
-INPUT_FILE = "chapter_interpretation.json"
-CHARACTER_FILE = "characters.json"
-OUTPUT_FILE = "voice_plan_v1.json"
+INPUT_FILE = "data/analysis/chapter_interpretation.json"
+CHARACTER_FILE = "data/analysis/characters.json"
+OUTPUT_FILE = "data/planning/voice_plan_v1.json"
 
 
 # ============================================================

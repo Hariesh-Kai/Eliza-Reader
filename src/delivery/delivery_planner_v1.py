@@ -9,9 +9,9 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 
-INTERPRETATION_FILE = BASE_DIR / "chapter_interpretation.json"
-CHARACTERS_FILE = BASE_DIR / "characters.json"
-OUTPUT_FILE = BASE_DIR / "delivery_plan_v1.json"
+INTERPRETATION_FILE = Path("data/analysis/chapter_interpretation.json")
+CHARACTERS_FILE = Path("data/analysis/characters.json")
+OUTPUT_FILE = Path("data/planning/delivery_plan_v1.json")
 
 
 # ------------------------------------------------------------

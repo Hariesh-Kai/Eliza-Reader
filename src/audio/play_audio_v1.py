@@ -4,7 +4,7 @@ from pathlib import Path
 
 HOST = "0.0.0.0"
 PORT = 8000
-AUDIO_FILE = Path("chapter_001.wav")
+AUDIO_FILE = Path("audio/chapters/chapter_001.wav")
 
 
 class AudioHandler(SimpleHTTPRequestHandler):
@@ -26,7 +26,7 @@ class AudioHandler(SimpleHTTPRequestHandler):
     <p>Chapter 001</p>
 
     <audio controls style="width: 600px;">
-        <source src="/chapter_001.wav" type="audio/wav">
+        <source src="/audio/chapters/chapter_001.wav" type="audio/wav">
         Your browser does not support audio playback.
     </audio>
 
@@ -53,7 +53,7 @@ class AudioHandler(SimpleHTTPRequestHandler):
             self.end_headers()
             return
 
-        if self.path == "/chapter_001.wav":
+        if self.path == "/audio/chapters/chapter_001.wav":
 
             if not AUDIO_FILE.exists():
                 self.send_error(404, "Audio file not found")
